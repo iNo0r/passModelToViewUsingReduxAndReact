@@ -1,4 +1,10 @@
 
+// this app implemented using the basics of react and redux js by @iNo0r
+
+there is No styling ,the goal of this app to show you how you can transfer the midels to the parent component and receive it by other component using redux and react-redux
+
+after downloading/cloning you need to have npm installed on your machine and install the dependencies by 'npm install' , and run using 'npm run'
+
 how does reducer connect by redux 
 
 1- create the model 
