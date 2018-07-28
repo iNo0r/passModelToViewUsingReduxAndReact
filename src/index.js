@@ -15,6 +15,6 @@ ReactDOM.render(
   </Provider>, document.getElementById('root')
 );
 
-
+// this app cursed !
 
 
