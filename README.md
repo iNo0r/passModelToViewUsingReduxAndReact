@@ -1,2 +1,0 @@
-# passModelToViewUsingReduxAndReact
-Created with CodeSandbox
